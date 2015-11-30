@@ -6,24 +6,14 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Build;
 import android.preference.PreferenceManager;
-import android.util.Base64;
 import android.util.Log;
 
-import com.github.orangegangsters.lollipin.lib.Crypto;
 import com.github.orangegangsters.lollipin.lib.PinActivity;
 import com.github.orangegangsters.lollipin.lib.PinFragmentActivity;
 import com.github.orangegangsters.lollipin.lib.encryption.Encryptor;
 import com.github.orangegangsters.lollipin.lib.interfaces.LifeCycleInterface;
 
-import java.io.UnsupportedEncodingException;
-import java.security.GeneralSecurityException;
 import java.security.SecureRandom;
-
-import javax.crypto.Cipher;
-import javax.crypto.SecretKey;
-import javax.crypto.SecretKeyFactory;
-import javax.crypto.spec.PBEKeySpec;
-import javax.crypto.spec.PBEParameterSpec;
 
 public class AppLockImpl<T extends AppLockActivity> extends AppLock implements LifeCycleInterface {
 
@@ -356,3 +346,4 @@ public class AppLockImpl<T extends AppLockActivity> extends AppLock implements L
         setLastActiveMillis();
     }
 }
+
