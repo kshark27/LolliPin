@@ -5,20 +5,20 @@
 			"author": "Someone",
 			"url": "http://i.imgur.com/MIlu5f4.jpg",
 			"name": "ShotA"
-			"resolution":"1024x768"
+			"resolution": "1024x768"
 		},
 		{
 			"author": "Someone",
 			"url": "http://i.imgur.com/BytreoN.jpg",
 			"name": "ShotB"
-			"resolution":"2560x1440"
+			"resolution": "2560x1440"
 
 		},
 		{
 			"author": "Someone",
 			"url": "http://i.imgur.com/R57zIJ0.jpg",
 			"name": "ShotC"
-			"resolution":"3940x2160"
+			"resolution": "3940x2160"
 		}
 	]
 }
