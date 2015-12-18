@@ -1,0 +1,21 @@
+{ 
+"listcat": 
+	[
+		{
+			"author": "Someone",
+			"name": "Nexus"
+		},
+		{
+			"author": "Someone",
+			"name": "LG"
+		},
+		{
+			"author": "Someone",
+			"name": "Samsung"
+		},
+		{
+		  "author": "Someone",
+		  "name": "Apple iPhone"
+		}
+	]
+}
