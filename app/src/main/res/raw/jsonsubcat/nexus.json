@@ -1,0 +1,23 @@
+{ 
+"listsubcat": 
+	[
+		{
+		  "name": "Google Pixel C"
+		},
+		{
+		  "name": "Google Chromebook Pixel"
+		},
+		{
+		  "name": "Android 6.0 Marshmallow"
+		},
+		{
+		  "name": "Android 5.0 Lollipop"
+		},
+		{
+		  "name": "Android 4.4 Kitkat"
+		},
+		{
+		  "name": "Android "4.1,4.2,4.3" JellyBean"
+		}
+	]
+}
