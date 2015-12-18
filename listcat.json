@@ -2,20 +2,73 @@
 "listcat": 
 	[
 		{
-			"author": "Someone",
-			"name": "Nexus"
+		  "name": "Alcatel"
 		},
 		{
-			"author": "Someone",
-			"name": "LG"
+		  "name": "Amazon"
 		},
 		{
-			"author": "Someone",
-			"name": "Samsung"
+		  "name": "Apple"
 		},
 		{
-		  "author": "Someone",
-		  "name": "Apple iPhone"
+		  "name": "Asus"
+		},
+		{
+		  "name": "BlackBerry"
+		},
+		{
+		  "name": "Gionee"
+		},
+		{
+		  "name": "Google Nexus"
+		},
+		{
+		  "name": "HTC"
+		},
+		{
+		  "name": "Huawei"
+		},
+		{
+		  "name": "Lenovo"
+		},
+		{
+		  "name": "LG"
+		},
+		{
+		  "name": "Meizu"
+		},
+		{
+		  "name": "Micromax"
+		},
+		{
+		  "name": "Microsoft"
+		},
+		{
+		  "name": "Motorola"
+		},
+		{
+		  "name": "Nvidia"
+		},
+		{
+		  "name": "One Plus"
+		},
+		{
+		  "name": "OPPO"
+		},
+		{
+		  "name": "Samsung"
+		},
+		{
+		  "name": "Sony"
+		},
+		{
+		  "name": "Vivo"
+		},
+		{
+		  "name": "Xiaomi"
+		},
+		{
+		  "name": "ZTE"
 		}
 	]
 }
