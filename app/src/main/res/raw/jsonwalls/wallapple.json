@@ -4,20 +4,58 @@
 		{
 			"author": "Someone",
 			"url": "http://i.imgur.com/MIlu5f4.jpg",
-			"name": "Apple",
+			"name": "Wallpaper 01",
 			"resolution": "1024x768"
 		},
 		{
 			"author": "Someone",
 			"url": "http://i.imgur.com/BytreoN.jpg",
-			"name": "Apple",
+			"name": "Wallpaper 02",
 			"resolution": "2560x1440"
 
 		},
 		{
 			"author": "Someone",
 			"url": "http://i.imgur.com/R57zIJ0.jpg",
-			"name": "Apple",
+			"name": "Wallpaper 03",
+			"resolution": "3940x2160"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/MIlu5f4.jpg",
+			"name": "Wallpaper 04",
+			"resolution": "1024x768"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/BytreoN.jpg",
+			"name": "Wallpaper 05",
+			"resolution": "2560x1440"
+
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/R57zIJ0.jpg",
+			"name": "Wallpaper 06",
+			"resolution": "3940x2160"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/MIlu5f4.jpg",
+			"name": "Wallpaper 07",
+			"resolution": "1024x768"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/BytreoN.jpg",
+			"name": "Wallpaper 08",
+			"resolution": "2560x1440"
+
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/R57zIJ0.jpg",
+			"name": "Wallpaper 09",
 			"resolution": "3940x2160"
 		}
 	]
