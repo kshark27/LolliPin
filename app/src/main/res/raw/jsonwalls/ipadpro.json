@@ -1,0 +1,24 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/bjQyCUr.png",
+			"name": "Wallpaper 01",
+			"resolution": "1024x768"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/dZBNoxZ.png",
+			"name": "Wallpaper 02",
+			"resolution": "2560x1440"
+
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/s6TgxSN.png",
+			"name": "Wallpaper 03",
+			"resolution": "3940x2160"
+		}
+	]
+}
