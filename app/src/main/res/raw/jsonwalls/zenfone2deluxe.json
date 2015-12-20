@@ -1,0 +1,37 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/qHN6y2f.jpg",
+			"name": "Wallpaper 01",
+			"resolution": "1024x768"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/7Riectv.jpg",
+			"name": "Wallpaper 02",
+			"resolution": "2560x1440"
+
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/7fL2b2E.jpg",
+			"name": "Wallpaper 03",
+			"resolution": "3940x2160"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/1MwEMwy.jpg",
+			"name": "Wallpaper 04",
+			"resolution": "1024x768"
+		},
+		{
+			"author": "Someone",
+			"url": "http://i.imgur.com/DGWxizT.jpg",
+			"name": "Wallpaper 05",
+			"resolution": "2560x1440"
+
+		}
+	]
+}
