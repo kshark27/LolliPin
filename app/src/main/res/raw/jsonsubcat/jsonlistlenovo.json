@@ -2,28 +2,16 @@
 "listsubcat": 
 	[
 		{
-		  "name": "Lenovo Vibe X3"
-		},
-		{
-		  "name": "Lenovo Yoga Tab 3 8.0"
+		  "name": "Lenovo Vibe X2 Pro"
 		},
 		{
 		  "name": "Lenovo Vibe P1"
-		},
-		{
-		  "name": "Lenovo Vibe S1"
-		},
+		}
 		{
 		  "name": "Lenovo ZUK Z1"
 		},
 		{
 		  "name": "Lenovo K3 Note"
-		},
-		{
-		  "name": "Lenovo S60"
-		},
-		{
-		  "name": "Lenovo Vibe Shot"
 		}
 	]
 }
