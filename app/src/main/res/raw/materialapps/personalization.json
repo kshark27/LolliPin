@@ -1,0 +1,96 @@
+Communications:
+{
+  "apps": [
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.touchtype.swiftkey",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Swiftkey Keyboard",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gamelounge.chroomakeyboard",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Chrooma Keyboard",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Nova Launcher",
+      "price": "FREE"
+    },
+    {
+      "rating": 4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.actionlauncher.playstore",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Action Launcher 3",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.anddoes.launcher",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Apex Launcher",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.kustom.pages",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Pages for KLWP",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.buzzfeed.android",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Buzzfeed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.slidelock",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Slidelock Locker",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.hexati.materiallockscreen",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Material Locker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.harsh.material3",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Material Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.zooper.zwpro",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Zooper Widget Pro",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.chris.tholotis",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Tholotis Blur",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.larvalabs.flow",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Flow Home Beta",
+      "price": "FREE"
+    }
+  ]
+}
