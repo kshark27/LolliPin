@@ -1,0 +1,95 @@
+{
+  "apps": [
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Snapseed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.baseapp.eyeem",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "EyeEm - Camera & Photo Filter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.instagram.layout",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Layout for Instragram:Collage",
+      "price": "FREE"
+    },
+    {
+      "rating": 4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.photofy.android",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Photofy",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.vsco.cam",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "VSCO",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Adobe Photoshop Lightroom",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fueled.afterlight",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Afterlight",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.pixlr.express",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Pixlr - Free Photo Editor",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.adobe.photoshopmix",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Adobe Photoshop Mix",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.harsh.material3",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Material Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.zooper.zwpro",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Zooper Widget Pro",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.chris.tholotis",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Tholotis Blur",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.larvalabs.flow",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Flow Home Beta",
+      "price": "FREE"
+    }
+  ]
+}
