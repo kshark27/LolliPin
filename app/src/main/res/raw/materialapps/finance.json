@@ -4,28 +4,28 @@ Communications:
     {
       "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
       "name": "Robinhood",
       "price": "FREE"
     },
     {
       "rating": "4.2 ★",
       "url": "https://play.google.com/store/apps/details?id=com.bloomberg.android.plus",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/Y55i6O2.png",
       "name": "Bloomberg Business",
       "price": "FREE"
     },
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=co.peeksoft.stocks",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/y0VRL7v.png",
       "name": "My Stocks Portfolio",
       "price": "FREE"
     },
     {
       "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=com.venmo&hl=en=",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/BLQqoXD.png",
       "name": "Venmo",
       "price": "FREE"
     },
@@ -39,14 +39,14 @@ Communications:
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/zPO2IMH.png",
       "name": "Bitcoin Wallet - Coinbase",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/CQYWvdC.png",
       "name": "Wallet - Buget Tracker",
       "price": "FREE"
     },
@@ -60,8 +60,8 @@ Communications:
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.renanferrari.grana",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
-      "name": "NGrana - Daily Expenses",
+      "thumb": "http://i.imgur.com/qGGAE0K.png",
+      "name": "Grana - Daily Expenses",
       "price": "FREE"
     },
     {
@@ -74,7 +74,7 @@ Communications:
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.code44.finance",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/qYZtK4X.png",
       "name": "Financius - Expenses Manager",
       "price": "FREE"
     },
@@ -88,14 +88,14 @@ Communications:
     {
       "rating": "4.2 ★",
       "url": "https://play.google.com/store/apps/details?id=com.huteri.monas",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/VKKJ5T5.png",
       "name": "Monas Expense Manager",
-      "price": "PAID"
+      "price": "FREE"
     },
     {
       "rating": "4.3",
       "url": "https://play.google.com/store/apps/details?id=it.webxperience",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/vJEQawI.png",
       "name": "MyStocks - Realtime Stocks",
       "price": "FREE"
     }
