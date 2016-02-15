@@ -1,0 +1,103 @@
+Communications:
+{
+  "apps": [
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Robinhood",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bloomberg.android.plus",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Bloomberg Business",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=co.peeksoft.stocks",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "My Stocks Portfolio",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.venmo&hl=en=",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Venmo",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mobigosoft.piebudget",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Pie Budget",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Bitcoin Wallet - Coinbase",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Wallet - Buget Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.cleevio.spendee&hl=en",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Spendee",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.renanferrari.grana",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "NGrana - Daily Expenses",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bookmark.money&hl=en",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Money Lover",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.code44.finance",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Financius - Expenses Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1",
+      "url": "https://play.google.com/store/apps/details?id=com.circle.android",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Circle Pay",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.huteri.monas",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Monas Expense Manager",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.3",
+      "url": "https://play.google.com/store/apps/details?id=it.webxperience",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "MyStocks - Realtime Stocks",
+      "price": "FREE"
+    }
+  ]
+}
