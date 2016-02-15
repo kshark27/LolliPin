@@ -1,0 +1,110 @@
+Communications:
+{
+  "apps": [
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=co.thefabulous.app",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Fabulous - Motivate Me!",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.adidas.micoach",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Adidas Train & Run",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Google Fit",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Fitbit",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fitnesskeeper.runkeeper.pro",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Runkeeper - GPS Track Run",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.runtastic.android",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Runtastic Running & Fitness",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.adidas.snapshot",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Adidas Snacpshot",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.riatech.cookbook",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Cookbook Recipes",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.imperon.android.gymapp",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "GymRun Fitness Workout LogBook",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.muddyapps.fit.tracker.health.workout.fitness",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Fitness Tracker - Health Coach",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.thongle.pedometer.fitnesstracker",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Pedometer and Fitness Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3",
+      "url": "https://play.google.com/store/apps/details?id=com.livestrong.tracker",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "LIVESTRONG.COM Calorie Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.practo.fabric",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Practo",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3",
+      "url": "https://play.google.com/store/apps/details?id=com.sillens.shapeupclub",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Lifesum - The Health Movement",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0",
+      "url": "https://play.google.com/store/apps/details?id=tools.bmirechner",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "BMI Calculator Weight Tracker",
+      "price": "FREE"
+    }
+  ]
+}
