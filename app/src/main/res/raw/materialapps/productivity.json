@@ -1,0 +1,174 @@
+{
+  "apps": [
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Microsoft Office Word",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.jotterpad.x",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "JotterPad - Writer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.intsig.camscannerhd",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "CamScanner",
+      "price": "FREE"
+    },
+    {
+      "rating": 4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mobisystems.office",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Office Suite",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.anydo",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Any.do: To-Do List & Task List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.keep",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Google Keep",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.todoist",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Todoist",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Wunderlist: To-Do List & Tasks",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=nextapp.fx",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "File Explorer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bleyl.recurrence",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Recurrence",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gpvargas.collateral",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Collateral",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.underwood.monospace",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Monospace",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.timeanddate.countdown",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Countdown by timeanddate ",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gpvargas.collateral",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Shaker[BETA] - Gestures",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.catchingnow.undo",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Inputting Plus: Ctrl + Z/F/C/V",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.vibhinna.cpuspyfree",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "CPU Spy Reloaded",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gh4a",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "OctoDroid",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.anydo.groceries",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Grocery List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.swipesapp.android",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Swipes - Plan & Achieve Tasks",
+      "price": "FREE"
+    }
+    ,
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.evernote",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Evernote",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tdevaux.googleurlshortener",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "URL Shortener",
+      "price": "FREE"
+    }
+    ,
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.trello",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Trello",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=am.sunrise.android.calendar",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Sunrise Calender",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.mkaas.rel.scrmd.tr",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Screen Mode",
+      "price": "FREE"
+    }
+  ]
+}
