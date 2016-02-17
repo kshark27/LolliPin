@@ -2,22 +2,15 @@
   "apps": [
     {
       "rating": "4.4 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
-      "name": "Microsoft Office Word",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.jotterpad.x",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/8Sr2E2B.png",
       "name": "JotterPad - Writer",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.intsig.camscannerhd",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/iHTNEIU.png",
       "name": "CamScanner",
       "price": "FREE"
     },
@@ -31,77 +24,77 @@
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.anydo",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/nfQZkZE.png",
       "name": "Any.do: To-Do List & Task List",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.keep",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/0a83M09.png",
       "name": "Google Keep",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.todoist",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/OSa2CYM.png",
       "name": "Todoist",
       "price": "FREE"
     },
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/GSHers3.png",
       "name": "Wunderlist: To-Do List & Tasks",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=nextapp.fx",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/nwyCajP.png",
       "name": "File Explorer",
       "price": "FREE"
     },
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.bleyl.recurrence",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/M7ah5lR.png",
       "name": "Recurrence",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.gpvargas.collateral",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/VaxsHHU.png",
       "name": "Collateral",
       "price": "FREE"
     },
     {
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=com.underwood.monospace",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/iPEZCzv.png",
       "name": "Monospace",
       "price": "FREE"
     },
     {
       "rating": "4.1 ★",
       "url": "https://play.google.com/store/apps/details?id=com.timeanddate.countdown",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/QspinLV.png",
       "name": "Countdown by timeanddate ",
       "price": "FREE"
     },
     {
       "rating": "3.9 ★",
       "url": "https://play.google.com/store/apps/details?id=com.gpvargas.collateral",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/sLMjrIF.png",
       "name": "Shaker[BETA] - Gestures",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.catchingnow.undo",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/6jaKq03.png",
       "name": "Inputting Plus: Ctrl + Z/F/C/V",
       "price": "FREE"
     },
@@ -122,14 +115,14 @@
     {
       "rating": "4.1 ★",
       "url": "https://play.google.com/store/apps/details?id=com.anydo.groceries",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/nYTb4TO.png",
       "name": "Grocery List",
       "price": "FREE"
     },
     {
       "rating": "4.1 ★",
       "url": "https://play.google.com/store/apps/details?id=com.swipesapp.android",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/5jhWGFa.png",
       "name": "Swipes - Plan & Achieve Tasks",
       "price": "FREE"
     }
@@ -137,7 +130,7 @@
     {
       "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=com.evernote",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/PUsdfat.jpg",
       "name": "Evernote",
       "price": "FREE"
     },
@@ -152,14 +145,14 @@
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.trello",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/K5BQclq.jpg",
       "name": "Trello",
       "price": "FREE"
     },
     {
       "rating": "4.2 ★",
       "url": "https://play.google.com/store/apps/details?id=am.sunrise.android.calendar",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/TqfWLix.jpg",
       "name": "Sunrise Calender",
       "price": "FREE"
     },
