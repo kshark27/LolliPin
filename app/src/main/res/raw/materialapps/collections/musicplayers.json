@@ -1,56 +1,49 @@
 {
   "apps": [
     {
-      "rating": "4.4 ★",
+      "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone",
       "thumb": "http://i.imgur.com/aRr5pWQ.jpg",
       "name": "Phonograph",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
       "thumb": "http://i.imgur.com/7YPHeFX.png",
-      "name": "Musixmatch",
+      "name": "Musixmatch - Lyrics & Music",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=another.music.player",
       "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
       "name": "Shuttle Music Player",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.shazam.android",
       "thumb": "http://i.imgur.com/nxSIZsm.png",
       "name": "Shazam",
       "price": "FREE"
     },
     {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.midsizemango.gleamiconpack",
-      "thumb": "http://i.imgur.com/UKz221n.png",
-      "name": "Gleam Icon Pack (BETA)",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
+      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=naman14.timber",
       "thumb": "http://i.imgur.com/DsUTMsG.png",
       "name": "Timber Music Player (Beta)",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
       "thumb": "http://i.imgur.com/wgYqvUF.jpg",
       "name": "SoundCloud",
       "price": "FREE"
     },
     {
-      "rating": "4.0 ★",
+      "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
       "thumb": "http://i.imgur.com/Nyr2yYh.png",
       "name": "Spotify Music",
@@ -64,14 +57,14 @@
       "price": "PAID"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=aj.jair.music",
       "thumb": "http://i.imgur.com/nUZRHjo.jpg",
       "name": "Jair Music Player [Beta]",
       "price": "FREE"
     },
     {
-      "rating": "4.1",
+      "rating": "3.3",
       "url": "https://play.google.com/store/apps/details?id=com.apple.android.music",
       "thumb": "http://i.imgur.com/6IvYTD0.png",
       "name": "Apple Music",
@@ -85,7 +78,7 @@
       "price": "FREE"
     },
     {
-      "rating": "4.4",
+      "rating": "4.5",
       "url": "https://play.google.com/store/apps/details?id=com.kodarkooperativet.blackplayerfree",
       "thumb": "http://i.imgur.com/RwnhkqF.png",
       "name": "BlackPlayer Music Player",
@@ -99,14 +92,14 @@
       "price": "FREE"
     },
     {
-      "rating": "4.1",
+      "rating": "4.4",
       "url": "https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar",
       "thumb": "http://i.imgur.com/6DNiYzN.png",
       "name": "Pulsar Music Player",
       "price": "FREE"
     },
     {
-      "rating": "4.3 ★",
+      "rating": "3.9 ★",
       "url": "https://play.google.com/store/apps/details?id=com.aniruddhc.music",
       "thumb": "http://i.imgur.com/lUrZ97Z.png",
       "name": "Lantern Music Player",
