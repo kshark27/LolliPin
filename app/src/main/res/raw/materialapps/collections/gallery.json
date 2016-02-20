@@ -1,0 +1,67 @@
+{
+  "apps": [
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.alensw.PicFolder",
+      "thumb": "http://i.imgur.com/aRr5pWQ.jpg",
+      "name": "QuickPic Gallery",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "thumb": "http://i.imgur.com/7YPHeFX.png",
+      "name": "Google Photos",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.diune.pictures",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "name": "Piktures - Beautiful Gallery",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.franco.focus",
+      "thumb": "http://i.imgur.com/nxSIZsm.png",
+      "name": "Focus",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.flayvr.flayvr",
+      "thumb": "http://i.imgur.com/UKz221n.png",
+      "name": "Gallery",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fstop.photo",
+      "thumb": "http://i.imgur.com/DsUTMsG.png",
+      "name": "F-Stop Media Gallery",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.atomicadd.fotos",
+      "thumb": "http://i.imgur.com/wgYqvUF.jpg",
+      "name": "A+ Gallery Photos & Videos",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mobato.gallery",
+      "thumb": "http://i.imgur.com/Nyr2yYh.png",
+      "name": "Gallery",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.everalbum.everalbumapp",
+      "thumb": "http://i.imgur.com/RV6gWUM.png",
+      "name": "Everalbum - Organize Photos",
+      "price": "PAID"
+    }
+  ]
+}
