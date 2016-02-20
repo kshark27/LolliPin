@@ -1,56 +1,56 @@
 {
   "apps": [
     {
-      "rating": "4.4 ★",
+      "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=pl.solidexplorer2",
       "thumb": "http://i.imgur.com/24oy0AN.png",
       "name": "Solid Explorer",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=nextapp.fx",
       "thumb": "http://i.imgur.com/7YPHeFX.png",
       "name": "File Explorer",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=com.afollestad.cabinet",
       "thumb": "http://i.imgur.com/KKfAmmW.png",
       "name": "Cabinet BETA",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.amaze.filemanager",
       "thumb": "http://i.imgur.com/nxSIZsm.png",
       "name": "Amaze File Manager",
       "price": "FREE"
     },
     {
-      "rating": "4.5 ★",
+      "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer.pro",
       "thumb": "http://i.imgur.com/tUVmDid.png",
       "name": "AnExplorer File Manager Pro",
       "price": "FREE"
     },
     {
-      "rating": "4.5 ★",
+      "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=pl.mkexplorer.kormateusz",
       "thumb": "http://i.imgur.com/Jy926J3.png",
       "name": "MK Explorer",
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "3.7 ★",
       "url": "https://play.google.com/store/apps/details?id=com.filemanager.free",
       "thumb": "http://i.imgur.com/E3Anm0q.pngg",
       "name": "File Manager",
       "price": "FREE"
     },
     {
-      "rating": "4.0 ★",
+      "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=fm.clean",
       "thumb": "http://i.imgur.com/cIt8E2g.png",
       "name": "File Manager",
@@ -64,28 +64,28 @@
       "price": "PAID"
     },
     {
-      "rating": "4.2 ★",
+      "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=net.sjava.file",
       "thumb": "http://i.imgur.com/gt7mVe5.png",
       "name": "N File Manager",
       "price": "FREE"
     },
     {
-      "rating": "4.1",
+      "rating": "4.3",
       "url": "https://play.google.com/store/apps/details?id=com.alexandrepiveteau.filemanager",
       "thumb": "http://i.imgur.com/5XQa4vL.png",
       "name": "Documents(File Manager)",
       "price": "FREE"
     },
     {
-      "rating": "3.9 ★",
+      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.ryeeeeee.markdownx",
       "thumb": "http://i.imgur.com/rZfHdtn.png",
       "name": "MarkdownX",
       "price": "FREE"
     },
     {
-      "rating": "4.4",
+      "rating": "4.0",
       "url": "https://play.google.com/store/apps/details?id=com.mercandalli.android.apps.files",
       "thumb": "http://i.imgur.com/XcKbbOG.png",
       "name": "FileSpace - File Manager",
