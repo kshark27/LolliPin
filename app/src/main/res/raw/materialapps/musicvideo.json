@@ -3,7 +3,7 @@
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/cNvwaDe.jpg",
       "name": "Phonograph",
       "price": "FREE"
     },
@@ -24,7 +24,7 @@
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
-      "thumb": "http://i.imgur.com/o4UnXx9.png",
+      "thumb": "http://i.imgur.com/MUTCcSe.png",
       "name": "Musixmatch - Lyrics & Music",
       "price": "FREE"
     },
@@ -73,28 +73,28 @@
     {
       "rating": "3.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.baboom.encore.fans",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/JAxAxkW.jpg",
       "name": "BABOOM",
       "price": "FREE"
     },
     {
       "rating": "4.2",
       "url": "https://play.google.com/store/apps/details?id=com.famousbluemedia.yokee",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "thumb": "http://i.imgur.com/TqdvwCB.jpg",
       "name": "Karaoke Sing & Record",
       "price": "FREE"
     },
     {
       "rating": "3.7 ★",
       "url": "https://play.google.com/store/apps/details?id=fm.last.android",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402408.jpg",
+      "thumb": "http://i.imgur.com/q42sIzx.png",
       "name": "last.fm",
       "price": "FREE"
     },
     {
       "rating": "3.9 ★",
       "url": "https://play.google.com/store/apps/details?id=com.koushikdutta.cast",
-      "thumb": "http://i.imgur.com/F5LDyyb.png",
+      "thumb": "http://i.imgur.com/Sm5aObo.png",
       "name": "AllCast",
       "price": "FREE"
     },
@@ -103,13 +103,6 @@
       "url": "https://play.google.com/store/apps/details?id=org.xbmc.kore",
       "thumb": "http://i.imgur.com/m6TK6TO.png",
       "name": "Kore, Official Remote for Kodi",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.2",
-      "url": "https://play.google.com/store/apps/details?id=com.obviousengine.seene.android.core",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
-      "name": "Seene",
       "price": "FREE"
     }
   ]
