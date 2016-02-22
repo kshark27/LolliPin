@@ -1,0 +1,172 @@
+{
+  "apps": [
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone",
+      "thumb": "http://i.imgur.com/cNvwaDe.jpg",
+      "name": "Phonograph",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.weather",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
+      "name": "Weather Timeline - Forecast",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.touchtype.swiftkey",
+      "thumb": "http://i.imgur.com/CZZRf8I.jpg",
+      "name": "Swiftkey Keyboard",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bhphoto",
+      "thumb": "http://i.imgur.com/ntPL5S9.png",
+      "name": "B&H Photo Video Pro Audio",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nytimes.android",
+      "thumb": "http://i.imgur.com/NA3sCvn.png",
+      "name": "NYTimes - Latest News",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.keep",
+      "thumb": "http://i.imgur.com/0a83M09.png",
+      "name": "Google Keep",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro",
+      "thumb": "http://i.imgur.com/2y7DxgP.png",
+      "name": "Pocket",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts",
+      "thumb": "http://i.imgur.com/3uwXEOS.jpg",
+      "name": "Pocketcasts",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tumblr",
+      "thumb": "http://i.imgur.com/6IhDFJ9.png",
+      "name": "Tumblr",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bleyl.recurrence",
+      "thumb": "http://i.imgur.com/wWzkWjE.jpg",
+      "name": "Recurrence",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.buzzfeed.android",
+      "thumb": "http://i.imgur.com/Iwn8osq.png",
+      "name": "Buzzfeed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.underwood.monospace",
+      "thumb": "http://i.imgur.com/iPEZCzv.png",
+      "name": "Monospace",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.timeanddate.countdown",
+      "thumb": "http://i.imgur.com/QspinLV.png",
+      "name": "Countdown by timeanddate ",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1",
+      "url": "https://play.google.com/store/apps/details?id=com.circle.android",
+      "thumb": "http://i.imgur.com/sB8CXBu.jpg",
+      "name": "Circle Pay",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.evernote",
+      "thumb": "http://i.imgur.com/PUsdfat.jpg",
+      "name": "Evernote",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.groupme.android&hl=en",
+      "thumb": "http://i.imgur.com/cK83XPV.png",
+      "name": "Group Me",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.indiegogo.android&hl=en",
+      "thumb": "http://i.imgur.com/24D81XS.png",
+      "name": "Indiegogo",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=me.lyft.android&hl=en",
+      "thumb": "http://i.imgur.com/vqKhIvl.png",
+      "name": "Lyft",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.runtastic.android",
+      "thumb": "http://i.imgur.com/GnQ2YCg.jpg",
+      "name": "Runtastic Running & Fitness",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide",
+      "thumb": "http://i.imgur.com/CY3KUGC.png",
+      "name": "Series Guide",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.trello",
+      "thumb": "http://i.imgur.com/K5BQclq.jpg",
+      "name": "Trello",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2",
+      "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es_419",
+      "thumb": "http://i.imgur.com/5NASIDy.png",
+      "name": "Telegram",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=thehunt.shoptap.thehunt",
+      "thumb": "http://i.imgur.com/T4JxLeS.jpg",
+      "name": "The Hunt",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=me.wiman.androidApp&hl=en",
+      "thumb": "http://i.imgur.com/BWVwVnz.png",
+      "name": "wiMAN Free WiFi",
+      "price": "FREE"
+    },
+  ]
+}
