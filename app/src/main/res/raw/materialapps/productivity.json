@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+      "thumb": "http://i.imgur.com/qWs04Db.png",
+      "name": "Google Calendar",
+      "price": "FREE"
+    },
+    {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.jotterpad.x",
       "thumb": "http://i.imgur.com/w2BOwZv.jpg",
