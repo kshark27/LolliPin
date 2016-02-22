@@ -1,0 +1,137 @@
+{
+  "apps": [
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.webianks.pollstap",
+      "thumb": "http://i.imgur.com/GTbPn61.png",
+      "name": "Polls Tap",
+      "price": "FREE"
+    }
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.pluscubed.anticipate",
+      "thumb": "http://i.imgur.com/dERqNqd.png",
+      "name": "Anticipate",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=arun.com.chromer",
+      "thumb": "http://i.imgur.com/GZ7pUXV.jpg",
+      "name": "Chromer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.underwood.promo2",
+      "thumb": "http://i.imgur.com/vNRsdWC.png",
+      "name": "Promo Codes",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.simonedev.joke",
+      "thumb": "http://i.imgur.com/UdEvLF7.png",
+      "name": "Joke",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bandlab.bandlab&referrer=utm_source%3DAndroidPIT%26utm_medium%3DAndroidPIT%26utm_campaign%3DAndroidPIT",
+      "thumb": "http://i.imgur.com/W2VOWwh.jpg",
+      "name": "BandLab - Music Community",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=rss.loadingartist.rss",
+      "thumb": "http://i.imgur.com/sJ6fP5I.png",
+      "name": "Comicup -Loading Artist Client",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fa.spreadsheet",
+      "thumb": "http://i.imgur.com/6tH7JVV.png",
+      "name": "Spreadsheet for Twitter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=august.workmeter",
+      "thumb": "http://i.imgur.com/fuhV2uD.png",
+      "name": "TimeFlow",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.komorovg.many",
+      "thumb": "http://i.imgur.com/2ZrGwTA.png",
+      "name": "Many Pro",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.basket.basketapp",
+      "thumb": "http://i.imgur.com/fQnFNzO.png",
+      "name": "Basket - Bookmark & Read Later",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=ru.myshows.activity",
+      "thumb": "http://i.imgur.com/00K7iD8.png",
+      "name": "MyShows",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mt.pijump",
+      "thumb": "http://i.imgur.com/sJ6fP5I.png",
+      "name": "Comicup -Loading Artist Client",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=rss.loadingartist.rss",
+      "thumb": "http://i.imgur.com/xeJYeHi.png",
+      "name": "PiJump",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fa.daily.app",
+      "thumb": "http://i.imgur.com/aByUhN3.png",
+      "name": "Daily – News flipped around",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=it.dm.fooddiary",
+      "thumb": "http://i.imgur.com/3aTAFfb.png",
+      "name": "Material Food Diary",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fa.daily.app",
+      "thumb": "http://i.imgur.com/aByUhN3.png",
+      "name": "Daily – News flipped around",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mt.appideas",
+      "thumb": "http://i.imgur.com/gS38daY.png",
+      "name": "Material Design App Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fa.daily.app",
+      "thumb": "http://i.imgur.com/aByUhN3.png",
+      "name": "Daily – News flipped around",
+      "price": "FREE"
+    }
+  ]
+}
