@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bhphoto",
+      "thumb": "http://i.imgur.com/ntPL5S9.png",
+      "name": "B&H Photo Video Pro Audio",
+      "price": "FREE"
+    },
+    {
       "rating": "4.1 ★",
       "url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
       "thumb": "http://i.imgur.com/aCdICC8.jpg",
