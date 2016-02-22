@@ -168,5 +168,131 @@
       "name": "wiMAN Free WiFi",
       "price": "FREE"
     },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.pluscubed.anticipate",
+      "thumb": "http://i.imgur.com/dERqNqd.png",
+      "name": "Anticipate",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=arun.com.chromer",
+      "thumb": "http://i.imgur.com/GZ7pUXV.jpg",
+      "name": "Chromer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.toastcode.screener",
+      "thumb": "http://i.imgur.com/4OI93Pb.jpg",
+      "name": "Screener",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumb": "http://i.imgur.com/0skcd0s.png",
+      "name": "Nova Launcher",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging",
+      "thumb": "http://i.imgur.com/5Wl6F79.png",
+      "name": "Messenger",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+      "thumb": "http://i.imgur.com/qWs04Db.png",
+      "name": "Google Calendar",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0",
+      "url": "https://play.google.com/store/apps/details?id=com.ready.android",
+      "thumb": "http://i.imgur.com/ZevNKNC.jpg",
+      "name": "Ready Contacts + Dialer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Robinhood",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+      "thumb": "http://i.imgur.com/JVWfYMq.jpg",
+      "name": "Snapseed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.baseapp.eyeem",
+      "thumb": "http://i.imgur.com/VIgIDv1.png",
+      "name": "EyeEm - Camera & Photo Filter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
+      "thumb": "http://i.imgur.com/MUTCcSe.png",
+      "name": "Musixmatch - Lyrics & Music",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+      "thumb": "http://i.imgur.com/53gKn5I.png",
+      "name": "Spotify Music",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.plus",
+      "thumb": "http://i.imgur.com/eG2JwjI.png",
+      "name": "Google+",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=pl.solidexplorer2",
+      "thumb": "http://i.imgur.com/1kArEKn.jpg",
+      "name": "Solid Explorer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "thumb": "http://i.imgur.com/7XUqAIY.png",
+      "name": "Google Photos",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.sharpregion.tapet",
+      "thumb": "http://i.imgur.com/gOBermC.jpg",
+      "name": "Tapet: Infinite Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+      "thumb": "http://i.imgur.com/VMBuPap.png",
+      "name": "Backdrops - Wallpapers",
+      "price": "FREE"
+    },
+        {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.musenkishi.wally",
+      "thumb": "http://i.imgur.com/9dDcy9t.png",
+      "name": "Wally",
+      "price": "FREE"
+    }
   ]
 }
