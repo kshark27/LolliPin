@@ -1,0 +1,60 @@
+{
+  "apps": [
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app",
+      "thumb": "http://i.imgur.com/Pqg9Utwm.jpg",
+      "name": "Google Cast",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.koushikdutta.cast",
+      "thumb": "http://i.imgur.com/P7Upfonm.png",
+      "name": "AllCast",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.stefanpledl.localcast",
+      "thumb": "http://i.imgur.com/cEvmKusm.png",
+      "name": "LocalCast for Chromecast/DLNA",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.videostream.Mobile",
+      "thumb": "http://i.imgur.com/k19oRVtm.jpg",
+      "name": "Videostream Chromecast: Mobile",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fs.anycast",
+      "thumb": "http://i.imgur.com/DBMsFBHm.png",
+      "name": "Any Cast",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mega.cast",
+      "thumb": "http://i.imgur.com/Nkc6pUOm.png",
+      "name": "Mega Cast",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tuxera.streambels",
+      "thumb": "http://i.imgur.com/e9ZvBsqm.jpg",
+      "name": "AllConnect - Play & Stream",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=dkc.video.vcast",
+      "thumb": "http://i.imgur.com/v87H5Xnm.png",
+      "name": "VEGA Cast",
+      "price": "FREE"
+    }
+  ]
+}
