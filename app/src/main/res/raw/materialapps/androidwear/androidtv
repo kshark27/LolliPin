@@ -1,0 +1,74 @@
+{
+  "apps": [
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.spotify.tv.android",
+      "thumb": "http://i.imgur.com/xNN1l6xm.png",
+      "name": "Spotify Music - for Android TV",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.tv.remote",
+      "thumb": "http://i.imgur.com/8LiFofLm.png",
+      "name": "Android TV Remote Control",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.xbmc.kore",
+      "thumb": "http://i.imgur.com/otLQQAAm.jpg",
+      "name": "Kore, Official Remote for Kodi",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+      "thumb": "http://i.imgur.com/Soc8yGMm.jpg",
+      "name": "Netflix",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.peirr.workout.play",
+      "thumb": "http://i.imgur.com/wxCrVkXm.png",
+      "name": "365 Body Workout",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+      "thumb": "http://i.imgur.com/cjkGJ6Bm.png",
+      "name": "VLC for Android",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.plexapp.android",
+      "thumb": "http://i.imgur.com/mCkKc2Hm.png",
+      "name": "Plex for Android",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+      "thumb": "http://i.imgur.com/vXy3aT9m.png",
+      "name": "TED",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.tv&hl=en",
+      "thumb": "http://i.imgur.com/UpybqsAm.jpg",
+      "name": "iHeartRadio for Android TV",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.estrongs.android.pop",
+      "thumb": "http://i.imgur.com/xPdxvbsm.jpg",
+      "name": "ES File Explorer File Manager",
+      "price": "FREE"
+    }
+  ]
+}
