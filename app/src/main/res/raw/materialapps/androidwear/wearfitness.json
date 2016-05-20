@@ -1,0 +1,60 @@
+{
+  "apps": [
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.endomondo.android",
+      "thumb": "http://i.imgur.com/RYDkXZ3m.png",
+      "name": "Endomondo - Running & Walking",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness",
+      "thumb": "http://i.imgur.com/Pgt0MsHm.jpg",
+      "name": "Google Fit",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.runtastic.android",
+      "thumb": "http://i.imgur.com/Dfh3A10m.png",
+      "name": "Runtastic Running & Fitness",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.strava",
+      "thumb": "http://i.imgur.com/lmsmEXvm.png",
+      "name": "Strava Running and Cycling GPS",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.sillens.shapeupclub",
+      "thumb": "http://i.imgur.com/eFXQjhWm.png",
+      "name": "Lifesum - The Health Movement",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=se.soderstrom.runbitpro",
+      "thumb": "http://i.imgur.com/GjmSIaz.png",
+      "name": "Runbit Pro",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fitnesskeeper.runkeeper.pro",
+      "thumb": "http://i.imgur.com/QHS3F8qm.png",
+      "name": "Runkeeper",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=se.soderstrom.runbitpro",
+      "thumb": "http://i.imgur.com/jK3eRFvm.png",
+      "name": "Exercise Tracker: Wear Fitness",
+      "price": "FREE"
+    }
+  ]
+}
