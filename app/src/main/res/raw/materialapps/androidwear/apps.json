@@ -1,0 +1,131 @@
+{
+  "apps": [
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.nickapps.wear.findmyphone",
+      "thumb": "http://i.imgur.com/1sAFAvem.png",
+      "name": "Find My Phone",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.npi.wearminilauncher",
+      "thumb": "http://i.imgur.com/aRr5pWQ.jpg",
+      "name": "Wear Mini Launcher",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.evernote.wear",
+      "thumb": "http://i.imgur.com/QNKSyC3m.png",
+      "name": "Evernote for Android Wear",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.keep",
+      "thumb": "http://i.imgur.com/0a83M09m.png",
+      "name": "Google Keep",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ifttt.ifttt",
+      "thumb": "http://i.imgur.com/oNgAsjym.png",
+      "name": "IF by IFTTT",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=rocketstartups.wearcalculator",
+      "thumb": "http://i.imgur.com/yYXzwRgm.png",
+      "name": "Calculator For Android Wear",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.appfour.weartube",
+      "thumb": "http://i.imgur.com/sjcRV6Bm.jpg",
+      "name": "Video for Android Wear&YouTube",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.appfour.wearphotos",
+      "thumb": "http://i.imgur.com/i92lkm1m.png",
+      "name": "Photo Gallery for Android Wear",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=co.fluenty.app.talkey",
+      "thumb": "http://i.imgur.com/j1D6m3Sm.png",
+      "name": "Fluenty (Talkey)",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=cordproject.lol.papercraft",
+      "thumb": "http://i.imgur.com/y3axJwem.jpg",
+      "name": "PaperCraft",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.shazam.android",
+      "thumb": "http://i.imgur.com/oOuiYsom.jpg",
+      "name": "Shazam",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
+      "thumb": "http://i.imgur.com/iWXKl6am.png",
+      "name": "Musixmatch - Lyrics & Music",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7",
+      "url": "https://play.google.com/store/apps/details?id=com.sofascore.results",
+      "thumb": "http://i.imgur.com/kcgH7nqm.png",
+      "name": "SofaScore Live Scores",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.todoist",
+      "thumb": "http://i.imgur.com/BTFJMTJm.jpg",
+      "name": "Todoist: To-Do List, Task List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5",
+      "url": "https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid",
+      "thumb": "http://i.imgur.com/GWNlTa0m.png",
+      "name": "Wunderlist: To-Do List & Tasks",
+      "price": "FREE"
+    },
+    {
+      "rating": "3,8 ★",
+      "url": "https://play.google.com/store/apps/details?id=it.purplepixel.wearbuddy",
+      "thumb": "http://i.imgur.com/P52WL76m.jpg",
+      "name": "Wear Buddy",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9",
+      "url": "https://play.google.com/store/apps/details?id=com.qhutch.agendawear",
+      "thumb": "http://i.imgur.com/T4ywgda.png",
+      "name": "Agenda Wear",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.citymapper.app.release",
+      "thumb": "http://i.imgur.com/FzMzVeq.png",
+      "name": "Citymapper",
+      "price": "FREE"
+    }
+    
+  ]
+}
