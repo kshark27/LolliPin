@@ -8,6 +8,20 @@
       "price": "FREE"
     },
     {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Robinhood",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone",
+      "thumb": "http://i.imgur.com/cNvwaDe.jpg",
+      "name": "Phonograph",
+      "price": "FREE"
+    },
+    {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.Slack",
       "thumb": "http://i.imgur.com/nmgCLa9.jpg",
@@ -245,13 +259,7 @@
       "name": "Ready Contacts + Dialer",
       "price": "FREE"
     },
-    {
-      "rating": "4.6 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
-      "thumb": "http://i.imgur.com/WSZJCsK.png",
-      "name": "Robinhood",
-      "price": "FREE"
-    },
+
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
