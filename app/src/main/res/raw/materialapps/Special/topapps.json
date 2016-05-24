@@ -15,10 +15,374 @@
       "price": "FREE"
     },
     {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone",
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.codium.hydrocoach",
       "thumb": "http://i.imgur.com/cNvwaDe.jpg",
-      "name": "Phonograph",
+      "name": "Hydro Coach - drink water",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.itemstudio.castro",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Castro",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.underwood.calendar_beta",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Today Calendar 2016",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Deliveries Package Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticproject.scout",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Field Trip",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Robinhood",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Robinhood",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=free.reddit.news",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Relay for reddit",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Boost for reddit",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.levelup.palabre",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Palabre Feedly RSS",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=mathieumaree.rippple",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Rippple - The Dribbble app",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.lastpass.lpandroid",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "LastPass Password Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.safeincloud",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Password Manager SafeInCloud™",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.franco.focus",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Focus - Picture Gallery",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ryan.brooks.sevenweeks.app",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "7 Weeks-Habit & Goal Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.doo.snap",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Scanbot-PDF Document Scanner",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3★",
+      "url": "https://play.google.com/store/apps/details?id=com.mowmo.plastexo",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Plastexo - Wallpaper",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5★",
+      "url": "https://play.google.com/store/apps/details?id=de.stocard.stocard",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Stocard - Rewards Cards Wallet",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.weebly.android",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Weebly-Create a Free Website",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.todoist",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Todoist: To-Do List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.devhd.feedly",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "feedly:your work newsfeed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.flyersoft.moonreader",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Moon+ Reader",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.joelapenna.foursquared",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Foursquare-Best City Guide",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nam.fbwrapper",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Metal for Facebook & Twitter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=eu.pinpong.equalizer",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Equalizer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.hippotech.materialislands",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Material Islands",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.flayvr.doctor",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Gallery Doctor - Photo Cleaner",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Water Drink Reminder",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.threeeplusplus.karkoona",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Karkoona",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.virblue.mystudylife",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "My Study Life",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.moviematelite",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Movie Mate",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Pulsar Music Player",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.obviousengine.seene.android.core",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Seene",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.code44.finance",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Seene",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Slack",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Financius - Expense Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.medium.reader",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Medium",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gmail.jmartindev.timetune",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "TimeTune:Do More In Less Time",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.er.mo.apps.mypasswords",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "My Passwords",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=io.enpass.app",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Enpass Password Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.cgollner.unclouded",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Unclouded - Cloud Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.tsapps.appsales",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "AppSales. Best Apps on Sale",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.imdevgary.cinnamon",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Cinnamon Grocery Shopping List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.imagine.free",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Imagine for Instagram Free",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.flip",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Flip Currency Converter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.splendapps.splendo",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "To Do List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.whereismycar",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Parkify - Where is my car?",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=ooo.oxo.apps.materialize",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Materialize",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=me.round.app",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Roundme",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nego.flite",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Focus Notify",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.upskew.encode",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Encode: Learn to Code",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=jp.keita.nakamura.timetable",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Classnote : Simple Timetable",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=it.onecalculator",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "One Calculator",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.appsfromthelocker.recipes",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Tasty Recipes!",
       "price": "FREE"
     },
     {
