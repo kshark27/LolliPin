@@ -29,6 +29,202 @@
       "price": "FREE"
     },
     {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=apps.cloudy.day.notiflash",
+      "thumb": "http://i.imgur.com/UdEvLF7.png",
+      "name": "Flashifications",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.kkings.cinematics",
+      "thumb": "http://i.imgur.com/UdEvLF7.png",
+      "name": "Cinematics: The Movie Guide",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gotomeeting",
+      "thumb": "http://i.imgur.com/UdEvLF7.png",
+      "name": "GoToMeeting",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.koller.lukas.todolist",
+      "thumb": "http://i.imgur.com/fRw9aFHl.png",
+      "name": "TODOList",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=it.orda.purecontact.free",
+      "thumb": "http://i.imgur.com/UhVQyM4l.png",
+      "name": "PureContact",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ahamed.cn",
+      "thumb": "http://i.imgur.com/owoXtIFl.png",
+      "name": "CricNights - Cricket App",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.lob.music_share",
+      "thumb": "http://i.imgur.com/DEaCrXfl.png",
+      "name": "Music Share",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.prosperworks.android",
+      "thumb": "http://i.imgur.com/WK5EnnOl.png",
+      "name": "ProsperWorks CRM for Android",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ssrij.fingerprintunlockmac",
+      "thumb": "http://i.imgur.com/Zom0fLHl.png",
+      "name": "DroidID",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.calintat.explorer",
+      "thumb": "http://i.imgur.com/QO9l8fYl.png",
+      "name": "Explorer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.howmuchleft&hl=en",
+      "thumb": "http://i.imgur.com/5hqVuXWl.png",
+      "name": "How Much - Expense Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7★",
+      "url": "https://play.google.com/store/apps/details?id=com.keinex.passwallfree",
+      "thumb": "http://i.imgur.com/etsWkEMl.png",
+      "name": "Passwall",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.joshualorett.sous",
+      "thumb": "http://i.imgur.com/XEMbM7wl.png",
+      "name": "Sous Recipe Manager",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=cz.marstaj.cardexpiration",
+      "thumb": "http://i.imgur.com/NxN0LDTl.png",
+      "name": "Expiration Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.sandro.aerial",
+      "thumb": "http://i.imgur.com/0vNhOzdl.png",
+      "name": "Aerial",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=mantra.kali.ari.com.matcon",
+      "thumb": "http://i.imgur.com/giMcAoYl.png",
+      "name": "MatCon - Material Icon Maker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gotomeeting",
+      "thumb": "http://i.imgur.com/UdEvLF7.png",
+      "name": "GoToMeeting",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=aufait.mindster.screeeenshot",
+      "thumb": "http://i.imgur.com/UdEvLF7.png",
+      "name": "Screenshot Join",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=ins.luk.projecttimetable",
+      "thumb": "http://i.imgur.com/aIdF2kel.png",
+      "name": "Simple Schedule",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.johnsimon.payback",
+      "thumb": "http://i.imgur.com/2bVDKx2l.png",
+      "name": "Pay Back - IOU Manager",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=rss.loadingartist.rss",
+      "thumb": "http://i.imgur.com/qWhavG2l.png",
+      "name": "Comicup -Loading Artist Client",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.fulminesoftware.compass",
+      "thumb": "http://i.imgur.com/vRymsH2l.png",
+      "name": "Compass",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.pluscubed.velociraptor",
+      "thumb": "http://i.imgur.com/C0MpQ9gl.png",
+      "name": "Velociraptor - Map Speed Limit",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.pluscubed.matlog",
+      "thumb": "http://i.imgur.com/YKiiVtPl.png",
+      "name": "MatLog: Material Logcat Reader",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.feedk.smartwallpaper",
+      "thumb": "http://i.imgur.com/cQC2zCGl.png",
+      "name": "Smart Wallpaper",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=justinkruit.app.jkwalls",
+      "thumb": "http://i.imgur.com/9M3MzgNl.png",
+      "name": "JKWalls - Wallpaper Pack",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.arun.themeutil.kolorette",
+      "thumb": "http://i.imgur.com/WdwUwA0l.png",
+      "name": "Kolorette",
+      "price": "FREE"
+    },
+     {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.daviidh.wallpaper.retrome",
+      "thumb": "http://i.imgur.com/BHU2svDl.png",
+      "name": "Retrome Wallpapers",
+      "price": "FREE"
+    },
+    {
       "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=com.simonedev.joke",
       "thumb": "http://i.imgur.com/UdEvLF7.png",
@@ -83,14 +279,7 @@
       "thumb": "http://i.imgur.com/00K7iD8.png",
       "name": "MyShows",
       "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.mt.pijump",
-      "thumb": "http://i.imgur.com/sJ6fP5I.png",
-      "name": "Comicup -Loading Artist Client",
-      "price": "FREE"
-    },
+    }
     {
       "rating": "4.9 ★",
       "url": "https://play.google.com/store/apps/details?id=rss.loadingartist.rss",
