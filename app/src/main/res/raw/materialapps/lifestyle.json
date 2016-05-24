@@ -104,6 +104,13 @@
       "thumb": "http://i.imgur.com/V5eXasI.jpg",
       "name": "Ola cabs",
       "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.appsfromthelocker.recipes",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Tasty Recipes!",
+      "price": "FREE"
     }
   ]
 }
