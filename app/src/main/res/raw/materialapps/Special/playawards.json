@@ -1,0 +1,84 @@
+{
+  "apps": [
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.houzz.app&hl=en",
+      "thumb": "http://i.imgur.com/7lRizPil.png",
+      "name": "Houzz",
+      "price": "FREE",
+      "type" : "Best App"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=app.WTInfoTech.WorldAroundMeLite&hl=en",
+      "thumb": "http://i.imgur.com/UYp2D7il.png",
+      "name": "World Around Me",
+      "price": "FREE",
+      "type" : "Best Early Adopter"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.avokiddo.games.thinkrolls2&hl=en",
+      "thumb": "http://i.imgur.com/ck4a2OHl.png",
+      "name": "Thinkrolls 2",
+      "price": "PAID",
+      "type" : "Best Families App"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.underwood.promo2",
+      "thumb": "http://i.imgur.com/xFprn9Al.png",
+      "name": "Pokemon Shuffle Mobile",
+      "price": "FREE",
+      "type" : "Best Go Global"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en",
+      "thumb": "http://i.imgur.com/TcrQOb0l.png",
+      "name": "Clash Royale",
+      "price": "FREE",
+      "type" : "Best Game"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.im360nytvr&hl=en",
+      "thumb": "http://i.imgur.com/ZDarmTGl.png",
+      "name": "NYT VR",
+      "price": "FREE",
+      "type" : "Most Innovative"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Robinhood",
+      "price": "FREE",
+      "type" : "Best Use of Material Design"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.spryfox.alphabear&hl=en",
+      "thumb": "http://i.imgur.com/x2LSszil.png",
+      "name": "Alphabear",
+      "price": "FREE",
+      "type" : "Best Standout Indie"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=uk.co.yakuto.TableTennisTouch&hl=en",
+      "thumb": "http://i.imgur.com/4pgc68Il.png",
+      "name": "Table Tennis Touch",
+      "price": "FREE",
+      "type" : "Best Use of Play Game Services"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.hopper.mountainview.play&hl=en",
+      "thumb": "http://i.imgur.com/PuxE7cel.png",
+      "name": "Hopper",
+      "price": "FREE",
+      "type" : "Best Standout Startup"
+    }
+  ]
+}
