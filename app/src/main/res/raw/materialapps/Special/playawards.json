@@ -14,7 +14,7 @@
       "thumb": "http://i.imgur.com/UYp2D7il.png",
       "name": "World Around Me",
       "price": "FREE",
-      "type" : "Best Early Adopter"
+      "type" : "BEST EARLY ADOPTER"
     },
     {
       "rating": "4.6 ★",
@@ -22,7 +22,7 @@
       "thumb": "http://i.imgur.com/ck4a2OHl.png",
       "name": "Thinkrolls 2",
       "price": "PAID",
-      "type" : "Best Families App"
+      "type" : "BEST FAMILIES APP"
     },
     {
       "rating": "4.3 ★",
@@ -30,7 +30,7 @@
       "thumb": "http://i.imgur.com/xFprn9Al.png",
       "name": "Pokemon Shuffle Mobile",
       "price": "FREE",
-      "type" : "Best Go Global"
+      "type" : "BEST GO GLOBAL"
     },
     {
       "rating": "4.5 ★",
@@ -38,7 +38,7 @@
       "thumb": "http://i.imgur.com/TcrQOb0l.png",
       "name": "Clash Royale",
       "price": "FREE",
-      "type" : "Best Game"
+      "type" : "BEST GAME"
     },
     {
       "rating": "3.9 ★",
@@ -46,7 +46,7 @@
       "thumb": "http://i.imgur.com/ZDarmTGl.png",
       "name": "NYT VR",
       "price": "FREE",
-      "type" : "Most Innovative"
+      "type" : "MOST INNOVATIVE"
     },
     {
       "rating": "4.6 ★",
@@ -54,7 +54,7 @@
       "thumb": "http://i.imgur.com/WSZJCsK.png",
       "name": "Robinhood",
       "price": "FREE",
-      "type" : "Best Use of Material Design"
+      "type" : "BEST USE OF MATERIAL DESIGN"
     },
     {
       "rating": "4.4 ★",
@@ -62,7 +62,7 @@
       "thumb": "http://i.imgur.com/x2LSszil.png",
       "name": "Alphabear",
       "price": "FREE",
-      "type" : "Best Standout Indie"
+      "type" : "BEST STANDOUT INDIE"
     },
     {
       "rating": "4.5 ★",
@@ -70,7 +70,7 @@
       "thumb": "http://i.imgur.com/4pgc68Il.png",
       "name": "Table Tennis Touch",
       "price": "FREE",
-      "type" : "Best Use of Play Game Services"
+      "type" : "BEST USE OF PLAY GAME SERVICES"
     },
     {
       "rating": "4.0 ★",
@@ -78,7 +78,7 @@
       "thumb": "http://i.imgur.com/PuxE7cel.png",
       "name": "Hopper",
       "price": "FREE",
-      "type" : "Best Standout Startup"
+      "type" : "BEST STANDOUT STARTUP"
     }
   ]
 }
