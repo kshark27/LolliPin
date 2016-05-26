@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.pddstudio.earthviewer",
+      "thumb": "http://i.imgur.com/3shARuRl.png",
+      "name": "EarthViewer Beta",
+      "price": "FREE"
+    },
+    {
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=com.harsh.material",
       "thumb": "http://i.imgur.com/GsqePvP.png",
