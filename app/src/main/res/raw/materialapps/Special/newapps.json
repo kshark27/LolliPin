@@ -8,6 +8,13 @@
       "price": "FREE"
     },
     {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.james.calculator",
+      "thumb": "http://i.imgur.com/7cssIVpl.png",
+      "name": "Card Calculator",
+      "price": "FREE"
+    },
+    {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.pluscubed.anticipate",
       "thumb": "http://i.imgur.com/dERqNqd.png",
@@ -96,6 +103,13 @@
       "url": "https://play.google.com/store/apps/details?id=com.calintat.explorer",
       "thumb": "http://i.imgur.com/QO9l8fYl.png",
       "name": "Explorer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.james.rocket",
+      "thumb": "http://i.imgur.com/pUtwulpl.png",
+      "name": "Rockets",
       "price": "FREE"
     },
     {
