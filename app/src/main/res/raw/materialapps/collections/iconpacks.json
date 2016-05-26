@@ -1,6 +1,48 @@
 {
   "apps": [
     {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ddev.askarp.iconpack",
+      "thumb": "http://i.imgur.com/p6uIB7Ll.png",
+      "name": "Askarp - Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=ddt.ultra.icon.pack",
+      "thumb": "http://i.imgur.com/DJ5YujMl.png",
+      "name": "Ultra Icon Pack BETA",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.linkeddesigns.quantumdots",
+      "thumb": "http://i.imgur.com/tzk8ht2l.png",
+      "name": "Quantum Dots BETA - Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.wellingtomworks.gaufrer",
+      "thumb": "http://i.imgur.com/Tw2mfrPl.png",
+      "name": "Gaufrer - Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=atomic.black.icon.pack",
+      "thumb": "http://i.imgur.com/SSyiwi4l.png",
+      "name": "Atomic Icon Pack BETA",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.abhishek.zarf",
+      "thumb": "http://i.imgur.com/Phfgub4l.png",
+      "name": "Zarf - Icon Pack",
+      "price": "PAID"
+    },
+    {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=nexbit.icons.moonshine",
       "thumb": "http://i.imgur.com/ZOePLph.png",
@@ -17,7 +59,7 @@
     {
       "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=com.zavukodlak.candycons",
-      "thumb": "http://i.imgur.com/YvgwRnw.png",
+      "thumb": "http://i.imgur.com/LKuD41sl.png",
       "name": "CandyCons - Icon Pack",
       "price": "FREE"
     },
@@ -101,7 +143,7 @@
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=almrdesigns.lollydrop",
-      "thumb": "http://i.imgur.com/TDzqNK5.png",
+      "thumb": "http://i.imgur.com/5Mm2Qrwl.png",
       "name": "LollyDrop",
       "price": "FREE"
     },
