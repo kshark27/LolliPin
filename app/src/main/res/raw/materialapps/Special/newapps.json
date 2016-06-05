@@ -1,5 +1,26 @@
 {
   "apps": [
+     {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=app.dvidz.fr.movie",
+      "thumb": "http://i.imgur.com/PN9xjrvl.png",
+      "name": "U Movies",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.erc.software.absolutelywallpapers",
+      "thumb": "http://i.imgur.com/yYkUZK4l.png",
+      "name": "Absolutely Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bedefined.flatmaterialzooper",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Flat Material Zooper",
+      "price": "FREE"
+    },
     {
       "rating": "4.2 ★",
       "url": "https://play.google.com/store/apps/details?id=com.erc.software.materialwallpapers",
