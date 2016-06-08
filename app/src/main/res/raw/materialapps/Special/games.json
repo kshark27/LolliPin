@@ -1,0 +1,67 @@
+{
+  "apps": [
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.munichsdorfer.screenittrial",
+      "thumb": "http://i.imgur.com/qWriAjjl.png",
+      "name": "Screen'it - Screenshot Tool",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=jahirfiquitiva.walls.frames",
+      "thumb": "http://i.imgur.com/iKBUgO7l.png",
+      "name": "Frames - Wallpapers Pack",
+      "price": "FREE"
+    }, 
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=jahirfiquitiva.themes.meliornui",
+      "thumb": "http://i.imgur.com/t3CvPfOl.png",
+      "name": "Melior NUI - Material CM Theme",
+      "price": "FREE"
+    }, 
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tictures.tictures",
+      "thumb": "http://i.imgur.com/s0P4eoel.png",
+      "name": "Tictures",
+      "price": "FREE"
+    }, 
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.glitch.stitchandshare",
+      "thumb": "http://i.imgur.com/F8zsNBRl.png",
+      "name": "Stitch & Share: big screenshot",
+      "price": "FREE"
+    }, 
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=app.dvidz.fr.movie",
+      "thumb": "http://i.imgur.com/PN9xjrvl.png",
+      "name": "U Movies",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.erc.software.absolutelywallpapers",
+      "thumb": "http://i.imgur.com/yYkUZK4l.png",
+      "name": "Absolutely Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=ks.walls.flat",
+      "thumb": "http://i.imgur.com/J3ITYa2l.png",
+      "name": "Wallz Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bedefined.flatmaterialzooper",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Flat Material Zooper",
+      "price": "FREE"
+    }
+  ]
+}
