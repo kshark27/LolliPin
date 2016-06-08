@@ -1,66 +1,108 @@
 {
   "apps": [
     {
-      "rating": "4.8 ★",
-      "url": "https://play.google.com/store/apps/details?id=de.munichsdorfer.screenittrial",
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid",
       "thumb": "http://i.imgur.com/qWriAjjl.png",
-      "name": "Screen'it - Screenshot Tool",
+      "name": "Two Dots",
       "price": "FREE"
     },
     {
-      "rating": "4.6 ★",
-      "url": "https://play.google.com/store/apps/details?id=jahirfiquitiva.walls.frames",
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.lhp.rontivity",
       "thumb": "http://i.imgur.com/iKBUgO7l.png",
-      "name": "Frames - Wallpapers Pack",
+      "name": "Rontivity",
       "price": "FREE"
     }, 
     {
-      "rating": "4.9 ★",
-      "url": "https://play.google.com/store/apps/details?id=jahirfiquitiva.themes.meliornui",
-      "thumb": "http://i.imgur.com/t3CvPfOl.png",
-      "name": "Melior NUI - Material CM Theme",
-      "price": "FREE"
-    }, 
-    {
-      "rating": "4.8 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.tictures.tictures",
-      "thumb": "http://i.imgur.com/s0P4eoel.png",
-      "name": "Tictures",
-      "price": "FREE"
-    }, 
-    {
-      "rating": "4.1 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.glitch.stitchandshare",
-      "thumb": "http://i.imgur.com/F8zsNBRl.png",
-      "name": "Stitch & Share: big screenshot",
-      "price": "FREE"
-    }, 
-    {
-      "rating": "4.8 ★",
-      "url": "https://play.google.com/store/apps/details?id=app.dvidz.fr.movie",
-      "thumb": "http://i.imgur.com/PN9xjrvl.png",
-      "name": "U Movies",
-      "price": "FREE"
-    },
-    {
-      "rating": "5.0 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.erc.software.absolutelywallpapers",
-      "thumb": "http://i.imgur.com/yYkUZK4l.png",
-      "name": "Absolutely Wallpapers",
-      "price": "FREE"
-    },
-    {
-      "rating": "5.0 ★",
-      "url": "https://play.google.com/store/apps/details?id=ks.walls.flat",
-      "thumb": "http://i.imgur.com/J3ITYa2l.png",
-      "name": "Wallz Wallpapers",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.9 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.bedefined.flatmaterialzooper",
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.heavyfork.partystarter",
       "thumb": "http://i.imgur.com/hmtwanGl.png",
-      "name": "Flat Material Zooper",
+      "name": "Party Starter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight",
+      "thumb": "http://i.imgur.com/t3CvPfOl.png",
+      "name": "2048++",
+      "price": "FREE"
+    }, 
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mt.pijump",
+      "thumb": "http://i.imgur.com/s0P4eoel.png",
+      "name": "PiJump",
+      "price": "FREE"
+    }, 
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gravybaby.snakeshadowedition",
+      "thumb": "http://i.imgur.com/F8zsNBRl.png",
+      "name": "Snake - Shadow Edition",
+      "price": "FREE"
+    }, 
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.NVS.rightytighty",
+      "thumb": "http://i.imgur.com/PN9xjrvl.png",
+      "name": "Righty Tighty",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.makemake.Tactile",
+      "thumb": "http://i.imgur.com/yYkUZK4l.png",
+      "name": "Tactile",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mediamonks.tilt",
+      "thumb": "http://i.imgur.com/J3ITYa2l.png",
+      "name": "Tilt",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.NVS.bingbong",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Bing Bong",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.NVS.pivot",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Pivot",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.amble43.checkersmaterialdesign",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Draughts / Checkers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.jdamcd.sudoku",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Sudoku",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gamelounge.chrooma.android",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Chrooma",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.brandtnewtonsoftware.minesweeper",
+      "thumb": "http://i.imgur.com/hmtwanGl.png",
+      "name": "Minesweeper - Material Design",
       "price": "FREE"
     }
   ]
