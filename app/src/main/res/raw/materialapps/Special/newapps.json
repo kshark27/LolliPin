@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.jaydhameliya.materialinterestcalculator",
+      "thumb": "http://i.imgur.com/Z0nDUvLl.png",
+      "name": "Material Interest Calculator",
+      "price": "FREE"
+    },
+    {
       "rating": "4.8 ★",
       "url": "https://play.google.com/store/apps/details?id=de.munichsdorfer.screenittrial",
       "thumb": "http://i.imgur.com/qWriAjjl.png",
