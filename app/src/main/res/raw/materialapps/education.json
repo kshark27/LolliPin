@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=xyz.muggr.phywiz.calc",
+      "thumb": "http://i.imgur.com/tpElzvfl.png",
+      "name": "PhyWiz - Physics Solver",
+      "price": "FREE"
+    },
+    {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=org.khanacademy.android",
       "thumb": "http://i.imgur.com/DMGvS4f.png",
