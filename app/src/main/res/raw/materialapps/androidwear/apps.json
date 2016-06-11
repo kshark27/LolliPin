@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=goko.ws2",
+      "thumb": "http://i.imgur.com/UoiJe6sl.png",
+      "name": "Wear Store for Wear Apps",
+      "price": "FREE"
+    },
+    {
       "rating": "4.2 ★",
       "url": "https://play.google.com/store/apps/details?id=net.nickapps.wear.findmyphone",
       "thumb": "http://i.imgur.com/1sAFAvem.png",
