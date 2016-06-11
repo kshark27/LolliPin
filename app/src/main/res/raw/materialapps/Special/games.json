@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.brainbow.peak.app",
+      "thumb": "http://i.imgur.com/779EzISl.png",
+      "name": "Peak - Brain Games",
+      "price": "FREE"
+    },
+    {
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid",
       "thumb": "http://i.imgur.com/u9Ekmpwl.png",
