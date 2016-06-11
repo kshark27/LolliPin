@@ -8,6 +8,20 @@
       "price": "PAID"
     },
     {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.feedk.smartwallpaper",
+      "thumb": "http://i.imgur.com/olrX08fl.png",
+      "name": "Smart Wallpaper",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.binaryfork.movies",
+      "thumb": "http://i.imgur.com/99wdc4Gl.png",
+      "name": "Movie Roll–Movies and Shows",
+      "price": "FREE"
+    },
+    {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.androidforums.earlybird",
       "thumb": "http://i.imgur.com/eDwSFfJl.png",
