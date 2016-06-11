@@ -1,6 +1,41 @@
 {
   "apps": [
     {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=pl.drobek.krzysztof.wemple",
+      "thumb": "http://i.imgur.com/aD7KMMcl.png",
+      "name": "Wemple Weather",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.redbull.alert",
+      "thumb": "http://i.imgur.com/LA0IUFRl.png",
+      "name": "Red Bull Alert: Alarm clock",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.brainbow.peak.app",
+      "thumb": "http://i.imgur.com/779EzISl.png",
+      "name": "Peak - Brain Games",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.feedk.smartwallpaper",
+      "thumb": "http://i.imgur.com/olrX08fl.png",
+      "name": "Smart Wallpaper",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.binaryfork.movies",
+      "thumb": "http://i.imgur.com/99wdc4Gl.png",
+      "name": "Movie Roll–Movies and Shows",
+      "price": "FREE"
+    },
+    {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.samruston.twitter",
       "thumb": "http://i.imgur.com/7A2Fbmgl.png",
