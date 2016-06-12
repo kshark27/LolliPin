@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.cornago.stefano.niente",
+      "thumb": "http://i.imgur.com/8XxtsS7l.png",
+      "name": "Nothing",
+      "price": "FREE"
+    },
+    {
       "rating": "4.1 ★",
       "url": "https://play.google.com/store/apps/details?id=pl.drobek.krzysztof.wemple",
       "thumb": "http://i.imgur.com/aD7KMMcl.png",
