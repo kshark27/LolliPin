@@ -2,6 +2,13 @@
   "apps": [
     {
       "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=io.github.ohmylob.rainalert",
+      "thumb": "http://i.imgur.com/UixBlaRl.png",
+      "name": "Umbrella Alert",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.samruston.twitter",
       "thumb": "http://i.imgur.com/7A2Fbmgl.png",
       "name": "Flamingo for Twitter (Beta)",
@@ -22,6 +29,20 @@
       "price": "FREE"
     },
     {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=nl.birdly.smartvolumecontroller",
+      "thumb": "http://i.imgur.com/mdqG1a1l.png",
+      "name": "Smart Volume Controller",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.grenderg.wifisentinel",
+      "thumb": "http://i.imgur.com/iKbh4ssl.png",
+      "name": "Wifi Sentinel",
+      "price": "FREE"
+    },
+    {
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=com.binaryfork.movies",
       "thumb": "http://i.imgur.com/99wdc4Gl.png",
@@ -36,10 +57,17 @@
       "price": "FREE"
     },
     {
-      "rating": "5.0 ★",
-      "url": "https://play.google.com/store/apps/details?id=xyz.muggr.phywiz.calc",
-      "thumb": "http://i.imgur.com/tpElzvfl.png",
-      "name": "PhyWiz - Physics Solver",
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.grenderg.wifisentinel",
+      "thumb": "http://i.imgur.com/iKbh4ssl.png",
+      "name": "Wifi Sentinel",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.sandro.aerial",
+      "thumb": "http://i.imgur.com/JhjCCjNl.png,
+      "name": "Aerial",
       "price": "FREE"
     },
     {
