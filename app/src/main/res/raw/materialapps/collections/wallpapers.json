@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.sixtyfourthirtytwo.terra&hl=en",
+      "thumb": "http://i.imgur.com/hfRcNd5l.png",
+      "name": "The Terra Collection",
+      "price": "FREE"
+    },
+    {
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=com.mekunu.wura",
       "thumb": "http://i.imgur.com/hksJnxkl.png",
