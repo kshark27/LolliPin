@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mekunu.wura",
+      "thumb": "http://i.imgur.com/hksJnxkl.png",
+      "name": "Wura wallpapers",
+      "price": "FREE"
+    },
+    {
       "rating": "4.2 ★",
       "url": "https://play.google.com/store/apps/details?id=com.feedk.smartwallpaper",
       "thumb": "http://i.imgur.com/olrX08fl.png",
