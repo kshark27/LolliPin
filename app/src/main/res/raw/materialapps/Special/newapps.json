@@ -36,7 +36,7 @@
       "price": "FREE"
     },
     {
-      "rating": "5.0 ★",
+      "rating": "4.2 ★",
       "url": "https://play.google.com/store/apps/details?id=com.cornago.stefano.niente",
       "thumb": "http://i.imgur.com/8XxtsS7l.png",
       "name": "Nothing",
@@ -145,6 +145,13 @@
       "url": "https://play.google.com/store/apps/details?id=info.papdt.blackblub",
       "thumb": "http://i.imgur.com/YvpX5nIl.png",
       "name": "Night Screen",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.cornago.stefano.niente",
+      "thumb": "http://i.imgur.com/8XxtsS7l.png",
+      "name": "Nothing (ADULT)",
       "price": "FREE"
     },
     {
