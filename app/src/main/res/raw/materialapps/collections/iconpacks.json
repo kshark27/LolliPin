@@ -2,6 +2,27 @@
   "apps": [
     {
       "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.cornieicons",
+      "thumb": "http://i.imgur.com/4FVf71Al.png",
+      "name": "Cornie Icons",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Fraom.Gel",
+      "thumb": "http://i.imgur.com/L9By0DMl.png",
+      "name": "GEL - Icon Pack",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Fraom.MelonUI",
+      "thumb": "http://i.imgur.com/vE0VlnJl.png",
+      "name": "Melon UI Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.8 ★",
       "url": "https://play.google.com/store/apps/details?id=com.ddev.askarp.iconpack",
       "thumb": "http://i.imgur.com/p6uIB7Ll.png",
       "name": "Askarp - Icon Pack",
