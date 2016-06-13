@@ -1,6 +1,76 @@
 {
   "apps": [
     {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mekunu.wura",
+      "thumb": "http://i.imgur.com/hksJnxkl.png",
+      "name": "Wura wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.cornieicons",
+      "thumb": "http://i.imgur.com/4FVf71Al.png",
+      "name": "Cornie Icons",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Fraom.Gel",
+      "thumb": "http://i.imgur.com/L9By0DMl.png",
+      "name": "GEL - Icon Pack",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Fraom.MelonUI",
+      "thumb": "http://i.imgur.com/vE0VlnJl.png",
+      "name": "Melon UI Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.rstudioz.habits",
+      "thumb": "http://i.imgur.com/ldzMc3rl.png",
+      "name": "Rewire - Habit & Goal Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.stocard.stocard",
+      "thumb": "http://i.imgur.com/fFAvu0al.png",
+      "name": "Stocard - Rewards Cards Wallet",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.hybrid.intervaltimer",
+      "thumb": "http://i.imgur.com/Qaw0Yjil.png",
+      "name": "Interval Timer - HIIT Tabata",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=nl.birdly.smartvolumecontroller",
+      "thumb": "http://i.imgur.com/mdqG1a1l.png",
+      "name": "Smart Volume Controller",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.grenderg.wifisentinel",
+      "thumb": "http://i.imgur.com/iKbh4ssl.png",
+      "name": "Wifi Sentinel",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=io.github.ohmylob.rainalert",
+      "thumb": "http://i.imgur.com/UixBlaRl.png",
+      "name": "Umbrella Alert",
+      "price": "FREE"
+    },
+    {
       "rating": "5.0 ★",
       "url": "https://play.google.com/store/apps/details?id=com.cornago.stefano.niente",
       "thumb": "http://i.imgur.com/8XxtsS7l.png",
