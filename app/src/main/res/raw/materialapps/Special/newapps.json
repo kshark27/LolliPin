@@ -1,6 +1,34 @@
 {
   "apps": [
     {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mercandalli.android.apps.files",
+      "thumb": "http://i.imgur.com/pbtca1Xl.png",
+      "name": "File Manager FS: Storage space",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.mercandalli.android.apps.pong",
+      "thumb": "http://i.imgur.com/5tpzZ1Bl.png",
+      "name": "1 or 2 players : Pong Fader",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.datanasov.memoreminders",
+      "thumb": "http://i.imgur.com/pbtca1Xl.png",
+      "name": "Memo Reminders",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.numixproject.hermes",
+      "thumb": "http://i.imgur.com/pbtca1Xl.png",
+      "name": "Hermes - Material IRC Client",
+      "price": "FREE"
+    },
+    {
       "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=com.gamefans",
       "thumb": "http://i.imgur.com/UoxhNW1l.png",
