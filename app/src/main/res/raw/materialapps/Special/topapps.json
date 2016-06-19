@@ -29,10 +29,24 @@
       "price": "FREE"
     },
     {
-      "rating": "4.2 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.social.spaces",
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gombosdev.ampere",
+      "thumb": "http://i.imgur.com/UBzsRQyl.png",
+      "name": "Ampere",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.notabasement.fuzel.app",
+      "thumb": "http://i.imgur.com/oFMnrECl.png",
+      "name": "Fuzel Collage",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=eu.thedarken.sdm",
       "thumb": "http://i.imgur.com/pScS3T9l.png",
-      "name": "Spaces - Small group sharing",
+      "name": "SD Maid - System Cleaning Tool",
       "price": "FREE"
     },
     {
