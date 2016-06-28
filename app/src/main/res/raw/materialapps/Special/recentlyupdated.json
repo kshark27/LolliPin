@@ -1,6 +1,111 @@
 {
   "apps": [
      {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.swordfish.dymages",
+      "thumb": "http://i.imgur.com/iFeMIOol.png",
+      "name": "Dymages Beta",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "thumb": "http://i.imgur.com/JRXAZ85l.png",
+      "name": "Walli - Arty & Cool Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.wall.gram",
+      "thumb": "http://i.imgur.com/TSjnG8Al.png",
+      "name": "Wallgram - Awesome Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab",
+      "thumb": "http://i.imgur.com/EWJXoxql.png",
+      "name": "Hermit • Lite Apps Browser",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.lifehacks",
+      "thumb": "http://i.imgur.com/tGQFks1l.png",
+      "name": "Tippy - Life Hacks & Tips",
+      "price": "FREE"
+    },
+    {
+      "rating": " ★",
+      "url": "https://play.google.com/store/apps/details?id=za.co.gingergeek.couleur",
+      "thumb": "http://i.imgur.com/s9SlScMl.png",
+      "name": "Couleur",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.shahid.pineapple",
+      "thumb": "http://i.imgur.com/Y1V9s7Kl.png",
+      "name": "Pineapple - Icon Pack",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.accomplish",
+      "thumb": "http://i.imgur.com/LHmyVz1l.png",
+      "name": "Accomplish: To-Do list reborn",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.dashlane",
+      "thumb": "http://i.imgur.com/nzJkksUl.png",
+      "name": "Dashlane Password Manager",
+      "price": "FREE"
+    },    
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.darin.drisian",
+      "thumb": "http://i.imgur.com/i4fkRcrl.png",
+      "name": "Drisian - A Wallpaper App",
+      "price": "FREE"
+    },
+        {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.wandoujia.notification",
+      "thumb": "http://i.imgur.com/UqEBVQfl.png",
+      "name": "Notification Inbox",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=stealthychief.custom.theme.fresh",
+      "thumb": "http://i.imgur.com/9TqBBVyl.png",
+      "name": "Fresh - Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tinoooapp.gravitygestures",
+      "thumb": "http://i.imgur.com/AaCvb8Tl.png",
+      "name": "Gravity Gestures",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.dvdh.notiflog",
+      "thumb": "http://i.imgur.com/5XrUQOUl.png",
+      "name": "Notif Log notification history",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.one.speakify",
+      "thumb": "http://i.imgur.com/PA8cenYl.png",
+      "name": "Speaki - Voice Notifications",
+      "price": "FREE"
+    },
+    {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.ignacemaes.wonderwall",
       "thumb": "http://i.imgur.com/lWTwP8d.png",
@@ -19,174 +124,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.slaughter.look.of.disapproval",
       "thumb": "http://i.imgur.com/vFJ5AUUl.png",
       "name": "Look of Disapproval",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.6 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.gamefans",
-      "thumb": "http://i.imgur.com/UoxhNW1l.png",
-      "name": "GameFans - News for Gamers",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.sixtyfourthirtytwo.terra&hl=en",
-      "thumb": "http://i.imgur.com/hfRcNd5l.png",
-      "name": "The Terra Collection",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.3 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.mekunu.wura",
-      "thumb": "http://i.imgur.com/hksJnxkl.png",
-      "name": "Wura wallpapers",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.8 ★",
-      "url": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.cornieicons",
-      "thumb": "http://i.imgur.com/4FVf71Al.png",
-      "name": "Cornie Icons",
-      "price": "PAID"
-    },
-    {
-      "rating": "4.1 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.Fraom.Gel",
-      "thumb": "http://i.imgur.com/L9By0DMl.png",
-      "name": "GEL - Icon Pack",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.8 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.Fraom.MelonUI",
-      "thumb": "http://i.imgur.com/vE0VlnJl.png",
-      "name": "Melon UI Icon Pack",
-      "price": "PAID"
-    },
-    {
-      "rating": "4.4 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.rstudioz.habits",
-      "thumb": "http://i.imgur.com/ldzMc3rl.png",
-      "name": "Rewire - Habit & Goal Tracker",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=de.stocard.stocard",
-      "thumb": "http://i.imgur.com/fFAvu0al.png",
-      "name": "Stocard - Rewards Cards Wallet",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.hybrid.intervaltimer",
-      "thumb": "http://i.imgur.com/Qaw0Yjil.png",
-      "name": "Interval Timer - HIIT Tabata",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.2 ★",
-      "url": "https://play.google.com/store/apps/details?id=nl.birdly.smartvolumecontroller",
-      "thumb": "http://i.imgur.com/mdqG1a1l.png",
-      "name": "Smart Volume Controller",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.3 ★",
-      "url": "https://play.google.com/store/apps/details?id=org.grenderg.wifisentinel",
-      "thumb": "http://i.imgur.com/iKbh4ssl.png",
-      "name": "Wifi Sentinel",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=io.github.ohmylob.rainalert",
-      "thumb": "http://i.imgur.com/UixBlaRl.png",
-      "name": "Umbrella Alert",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.1 ★",
-      "url": "https://play.google.com/store/apps/details?id=pl.drobek.krzysztof.wemple",
-      "thumb": "http://i.imgur.com/aD7KMMcl.png",
-      "name": "Wemple Weather",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.1 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.redbull.alert",
-      "thumb": "http://i.imgur.com/LA0IUFRl.png",
-      "name": "Red Bull Alert: Alarm clock",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.brainbow.peak.app",
-      "thumb": "http://i.imgur.com/779EzISl.png",
-      "name": "Peak - Brain Games",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.2 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.feedk.smartwallpaper",
-      "thumb": "http://i.imgur.com/olrX08fl.png",
-      "name": "Smart Wallpaper",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.3 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.binaryfork.movies",
-      "thumb": "http://i.imgur.com/99wdc4Gl.png",
-      "name": "Movie Roll–Movies and Shows",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.samruston.twitter",
-      "thumb": "http://i.imgur.com/7A2Fbmgl.png",
-      "name": "Flamingo for Twitter (Beta)",
-      "price": "PAID"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.androidforums.earlybird",
-      "thumb": "http://i.imgur.com/eDwSFfJl.png",
-      "name": "EarlyBird - News for Android",
-      "price": "FREE"
-    },
-    {
-      "rating": "5.0 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.jaydhameliya.materialinterestcalculator",
-      "thumb": "http://i.imgur.com/Z0nDUvLl.png",
-      "name": "Material Interest Calculator",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.8 ★",
-      "url": "https://play.google.com/store/apps/details?id=de.munichsdorfer.screenittrial",
-      "thumb": "http://i.imgur.com/qWriAjjl.png",
-      "name": "Screen'it - Screenshot Tool",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.6 ★",
-      "url": "https://play.google.com/store/apps/details?id=jahirfiquitiva.walls.frames",
-      "thumb": "http://i.imgur.com/iKBUgO7l.png",
-      "name": "Frames - Wallpapers Pack",
-      "price": "FREE"
-    }, 
-    {
-      "rating": "4.9 ★",
-      "url": "https://play.google.com/store/apps/details?id=jahirfiquitiva.themes.meliornui",
-      "thumb": "http://i.imgur.com/t3CvPfOl.png",
-      "name": "Melior NUI - Material CM Theme",
-      "price": "FREE"
-    }, 
-    {
-      "rating": "5.0 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.erc.software.absolutelywallpapers",
-      "thumb": "http://i.imgur.com/yYkUZK4l.png",
-      "name": "Absolutely Wallpapers",
       "price": "FREE"
     }
   ]
