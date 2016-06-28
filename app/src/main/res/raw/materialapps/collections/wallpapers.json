@@ -1,6 +1,27 @@
 {
   "apps": [
     {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.swordfish.dymages",
+      "thumb": "http://i.imgur.com/iFeMIOol.png",
+      "name": "Dymages Beta",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "thumb": "http://i.imgur.com/JRXAZ85l.png",
+      "name": "Walli - Arty & Cool Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.wall.gram",
+      "thumb": "http://i.imgur.com/TSjnG8Al.png",
+      "name": "Wallgram - Awesome Wallpapers",
+      "price": "FREE"
+    },
+    {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.sixtyfourthirtytwo.terra&hl=en",
       "thumb": "http://i.imgur.com/hfRcNd5l.png",
