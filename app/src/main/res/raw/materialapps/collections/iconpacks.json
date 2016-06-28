@@ -1,6 +1,20 @@
 {
   "apps": [
     {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=stealthychief.custom.theme.fresh",
+      "thumb": "http://i.imgur.com/9TqBBVyl.png",
+      "name": "Fresh - Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.shahid.pineapple",
+      "thumb": "http://i.imgur.com/Y1V9s7Kl.png",
+      "name": "Pineapple - Icon Pack",
+      "price": "FREE"
+    },
+    {
       "rating": "4.8 ★",
       "url": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.cornieicons",
       "thumb": "http://i.imgur.com/4FVf71Al.png",
