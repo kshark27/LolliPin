@@ -2,6 +2,90 @@
   "apps": [
     {
       "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab",
+      "thumb": "http://i.imgur.com/EWJXoxql.png",
+      "name": "Hermit • Lite Apps Browser",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.lifehacks",
+      "thumb": "http://i.imgur.com/tGQFks1l.png",
+      "name": "Tippy - Life Hacks & Tips",
+      "price": "FREE"
+    },
+    {
+      "rating": " ★",
+      "url": "https://play.google.com/store/apps/details?id=za.co.gingergeek.couleur",
+      "thumb": "http://i.imgur.com/s9SlScMl.png",
+      "name": "Couleur",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.shahid.pineapple",
+      "thumb": "http://i.imgur.com/Y1V9s7Kl.png",
+      "name": "Pineapple - Icon Pack",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.accomplish",
+      "thumb": "http://i.imgur.com/LHmyVz1l.png",
+      "name": "Accomplish: To-Do list reborn",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.dashlane",
+      "thumb": "http://i.imgur.com/nzJkksUl.png",
+      "name": "Dashlane Password Manager",
+      "price": "FREE"
+    },    
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.darin.drisian",
+      "thumb": "http://i.imgur.com/i4fkRcrl.png",
+      "name": "Drisian - A Wallpaper App",
+      "price": "FREE"
+    },
+        {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.wandoujia.notification",
+      "thumb": "http://i.imgur.com/UqEBVQfl.png",
+      "name": "Notification Inbox",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=stealthychief.custom.theme.fresh",
+      "thumb": "http://i.imgur.com/9TqBBVyl.png",
+      "name": "Fresh - Icon Pack",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tinoooapp.gravitygestures",
+      "thumb": "http://i.imgur.com/AaCvb8Tl.png",
+      "name": "Gravity Gestures",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.dvdh.notiflog",
+      "thumb": "http://i.imgur.com/5XrUQOUl.png",
+      "name": "Notif Log notification history",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.one.speakify",
+      "thumb": "http://i.imgur.com/PA8cenYl.png",
+      "name": "Speaki - Voice Notifications",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.ignacemaes.wonderwall",
       "thumb": "http://i.imgur.com/lWTwP8d.png",
       "name": "Wonderwall - Wallpapers",
