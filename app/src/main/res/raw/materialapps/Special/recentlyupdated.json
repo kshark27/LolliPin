@@ -1,6 +1,20 @@
 {
   "apps": [
      {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.material.playpro",
+      "thumb": "http://i.imgur.com/HI1Ookul.png",
+      "name": "Material Play TV Pro",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.material.diagmonfree",
+      "thumb": "http://i.imgur.com/YbkVjvCl.png",
+      "name": "Material Diag Free",
+      "price": "FREE"
+    },
+    {
       "rating": "4.9 ★",
       "url": "https://play.google.com/store/apps/details?id=com.swordfish.dymages",
       "thumb": "http://i.imgur.com/iFeMIOol.png",
