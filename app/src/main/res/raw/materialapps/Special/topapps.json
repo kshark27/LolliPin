@@ -2,6 +2,13 @@
   "apps": [
     {
       "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.itemstudio.castro",
+      "thumb": "http://i.imgur.com/cPg0eVHl.jpg",
+      "name": "Castro",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone",
       "thumb": "http://i.imgur.com/cNvwaDe.jpg",
       "name": "Phonograph",
@@ -43,6 +50,13 @@
       "price": "FREE"
     },
     {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.nixgame.bubblelevel",
+      "thumb": "http://i.imgur.com/pnzCiqzl.png",
+      "name": "Bubble Level, Spirit Level",
+      "price": "FREE"
+    },
+    {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=eu.thedarken.sdm",
       "thumb": "http://i.imgur.com/pKVVj6Ll.png",
@@ -54,13 +68,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.codium.hydrocoach",
       "thumb": "http://i.imgur.com/JHFjEJWl.png",
       "name": "Hydro Coach - drink water",
-      "price": "FREE"
-    },
-    {
-      "rating": "4.5 ★",
-      "url": "https://play.google.com/store/apps/details?id=com.itemstudio.castro",
-      "thumb": "http://i.imgur.com/UuTwKPpl.jpg",
-      "name": "Castro",
       "price": "FREE"
     },
     {
