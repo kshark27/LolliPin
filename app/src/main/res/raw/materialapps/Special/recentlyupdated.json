@@ -1,6 +1,69 @@
 {
   "apps": [
      {
+      "rating": "4.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.teallixmerchant.swipedgeprime.app",
+      "thumb": "http://i.imgur.com/SfkzV7sl.png",
+      "name": "Swipedge Prime",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.secrets",
+      "thumb": "http://i.imgur.com/bmEIoYLl.png",
+      "name": "Playbook for Developers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.candl.auge",
+      "thumb": "http://i.imgur.com/xlupAvql.png",
+      "name": "Calendar Widget: Agenda",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.monarchdesigns.moonriseiconpack",
+      "thumb": "http://i.imgur.com/3IlcH1cl.png",
+      "name": "Moonrise Icon Pack",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tomer.alwayson",
+      "thumb": "http://i.imgur.com/aMQZOfml.png",
+      "name": "Always On AMOLED - BETA",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.hektorapps.gamesfeed",
+      "thumb": "http://i.imgur.com/uu5pGByl.png",
+      "name": "GamesFeed - Game release dates",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=supreme.icon.pack.ddt",
+      "thumb": "http://i.imgur.com/Y1wwS64l.png",
+      "name": "Supreme Icon Pack [BETA]",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.thecompletecalculator.ccalc",
+      "thumb": "http://i.imgur.com/M93V87Cl.png",
+      "name": "CCalc: The Complete Calculator",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Fraom.ChromatinUI",
+      "thumb": "http://i.imgur.com/xpoihAjl.png",
+      "name": "Chromatin UI - Icon Pack",
+      "price": "PAID"
+    },
+    {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.material.playpro",
       "thumb": "http://i.imgur.com/HI1Ookul.png",
