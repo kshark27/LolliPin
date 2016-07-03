@@ -1,6 +1,27 @@
 {
   "apps": [
     {
+      "rating": "4.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.monarchdesigns.moonriseiconpack",
+      "thumb": "http://i.imgur.com/3IlcH1cl.png",
+      "name": "Moonrise Icon Pack",
+      "price": "FREE"
+    },
+    {
+      "rating": "5.0 ★",
+      "url": "https://play.google.com/store/apps/details?id=supreme.icon.pack.ddt",
+      "thumb": "http://i.imgur.com/Y1wwS64l.png",
+      "name": "Supreme Icon Pack [BETA]",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Fraom.ChromatinUI",
+      "thumb": "http://i.imgur.com/xpoihAjl.png",
+      "name": "Chromatin UI - Icon Pack",
+      "price": "PAID"
+    },
+    {
       "rating": "4.6 ★",
       "url": "https://play.google.com/store/apps/details?id=stealthychief.custom.theme.fresh",
       "thumb": "http://i.imgur.com/9TqBBVyl.png",
