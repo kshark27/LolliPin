@@ -1,6 +1,125 @@
 {
   "apps": [
      {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.citc.asap",
+      "thumb": "http://i.imgur.com/u69bOEfl.png",
+      "name": "ASAP Launcher",
+      "price": "FREE"
+    },
+    {
+          "rating": "4.4 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.edzondm.revolutionwalls",
+          "thumb": "http://i.imgur.com/B3uOFW7l.png",
+          "name": "Revolution Walls",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.5 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.amdroidalarmclock.amdroid",
+          "thumb": "http://i.imgur.com/QrQY9e6l.png",
+          "name": "Oversleep? AMdroid Alarm Clock",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.4 ★",
+          "url": "https://play.google.com/store/apps/details?id=cinderella.uzo.weather",
+          "thumb": "http://i.imgur.com/Omne2DDl.png",
+          "name": "Weather",
+          "price": "FREE"
+    },
+    {
+          "rating": "3.8 ★",
+          "url": "https://play.google.com/store/apps/details?id=cinderella.uzo.playpreview",
+          "thumb": "http://i.imgur.com/3wjHoN9l.png",
+          "name": "Play Store Preview",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.7 ★",
+          "url": "https://play.google.com/store/apps/details?id=io.seik.reminders",
+          "thumb": "http://i.imgur.com/KEevmW7l.png",
+          "name": "Wall | Notification Reminder",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.5 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.google.vr.expeditions",
+          "thumb": "http://i.imgur.com/b669GR9l.png",
+          "name": "Expeditions",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.8 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.hobi.android",
+          "thumb": "http://i.imgur.com/eaOufhJl.png",
+          "name": "Hobi - TV Shows Reminder",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.6 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.spada.iconpackgenerator",
+          "thumb": "http://i.imgur.com/TE0xzuUl.png",
+          "name": "Icon Pack Generator",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.1 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.domobile.sharephone",
+          "thumb": "http://i.imgur.com/nl1HvTIl.png",
+          "name": "Share Phone",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.3 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.thunderclouddev.changelogs",
+          "thumb": "http://i.imgur.com/HGR1XQLl.png",
+          "name": "Changelogs",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.4 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.silverfinger.wake",
+          "thumb": "http://i.imgur.com/qJHy0col.png",
+          "name": "WON - Wake On Notification",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.4 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.fb.iwidget",
+          "thumb": "http://i.imgur.com/tNzCvBHl.png",
+          "name": "Snap Swipe Drawer",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.5 ★",
+          "url": "https://play.google.com/store/apps/details?id=iamsupratim.com.ontime",
+          "thumb": "http://i.imgur.com/bJ1V9kvl.png",
+          "name": "On Time - Dynamic Smart Widget",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.6 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.tasomaniac.openwith",
+          "thumb": "http://i.imgur.com/ILVCBEal.png",
+          "name": "Open Link With...",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.4 ★",
+          "url": "https://play.google.com/store/apps/details?id=com.camel.corp.universalcopy",
+          "thumb": "http://i.imgur.com/tDvA3dNl.png",
+          "name": "Universal Copy",
+          "price": "FREE"
+    },
+    {
+          "rating": "4.5 ★",
+          "url": "https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher",
+          "thumb": "http://i.imgur.com/0shBbcel.png",
+          "name": "Image Search ( and Download",
+          "price": "FREE"
+    },
+    {
       "rating": "4.8 ★",
       "url": "https://play.google.com/store/apps/details?id=com.teallixmerchant.swipedgeprime.app",
       "thumb": "http://i.imgur.com/SfkzV7sl.png",
